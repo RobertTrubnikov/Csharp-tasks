@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Robert\Tasks\Task29\bin\Debug\net6.0\Task29.exe
+C:\Users\1\Desktop\Robert\Tasks\Task29\bin\Debug\net6.0\Task29.deps.json
+C:\Users\1\Desktop\Robert\Tasks\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+C:\Users\1\Desktop\Robert\Tasks\Task29\bin\Debug\net6.0\Task29.dll
+C:\Users\1\Desktop\Robert\Tasks\Task29\bin\Debug\net6.0\Task29.pdb
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.dll
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\refint\Task29.dll
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.pdb
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+C:\Users\1\Desktop\Robert\Tasks\Task29\obj\Debug\net6.0\ref\Task29.dll
